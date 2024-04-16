@@ -5,7 +5,7 @@
 		"ECSClusterName": {
 			"Type": "String",
 			"Description": "Specifies the ECS Cluster Name with which the resources would be associated",
-			"Default": "demo222"
+			"Default": "new_customer_name"
 		}
 	},
 	"Resources": {
